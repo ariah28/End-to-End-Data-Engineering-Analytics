@@ -16,7 +16,7 @@ PostgreSQL (raw → staging → analytics), Python ETL, SQL data modeling, Apach
 - **SQL**: profiling checks, validation checks, analytics builds, business queries
 - **Python**: ingestion, sync/transform scripts, automation helpers
 - **Apache Airflow**: orchestration (DAG scheduling + task dependencies)
-- **Jupyter**: exploration and ad-hoc analysis (optional)
+- **Jupyter**: exploration and ad-hoc analysis
 - **Matplotlib / Pandas**: visualization and analysis outputs
 
 ## Repository Structure
