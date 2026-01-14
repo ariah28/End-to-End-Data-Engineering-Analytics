@@ -1,3 +1,4 @@
+
 # End-to-End Data Engineering & Analytics
 
 A portfolio project that demonstrates an end-to-end pipeline and analytics layer using a modern, reproducible stack:
@@ -33,4 +34,8 @@ End-to-End-Data-Engineering-Analytics/
 ├── notebooks/                     # Jupyter notebooks (optional)
 ├── .gitignore
 └── README.md
+
+=======
+# End-to-End-Data-Engineering-Analytics
+End-to-end data engineering and analytics project using PostgreSQL, SQL, Python, ETL/ELT pipelines, and workflow orchestration to transform raw data into analytical insights.
 
