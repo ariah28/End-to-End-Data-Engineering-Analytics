@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+
+# Virtual environments
+airflow_env/
+analytics_env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Airflow
+airflow/airflow.db
+airflow/logs/
+airflow/simple_auth_manager_passwords.json*
+
+# Data files (raw datasets)
+*.csv
+data/
+
+# Generated outputs
+analytics/outputs/
+
