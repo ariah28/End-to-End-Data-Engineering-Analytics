@@ -28,10 +28,10 @@ End-to-End-Data-Engineering-Analytics/
 ├── warehouse_sql/                 # SQL scripts (schemas, models, checks, queries)
 ├── analytics/
 │   └── outputs/
-│       └── figures/               # Generated charts/images (optional to commit)
+│       └── figures/               # Generated charts/images 
 ├── data/                          # Local data (usually gitignored if large/private)
 ├── documentation/                 # Notes, summaries, pipeline documentation
-├── notebooks/                     # Jupyter notebooks (optional)
+├── notebooks/                     # Jupyter notebooks 
 ├── .gitignore
 └── README.md
 
