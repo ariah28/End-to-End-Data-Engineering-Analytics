@@ -1,0 +1,24 @@
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Virtual environments
+airflow_env/
+analytics_env/
+venv/
+
+# Raw source data
+Year_2009-2010_online_retail_II.csv
+Year_2010-2011_online_retail_II.csv
+
+# Airflow runtime artifacts only
+airflow/logs/
+airflow/airflow.db
+airflow/airflow.db-shm
+airflow/airflow.db-wal
