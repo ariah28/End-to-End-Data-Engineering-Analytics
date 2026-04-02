@@ -54,7 +54,7 @@ The goal of this project is to design a **reliable, reproducible, and automated 
 
 ## Pipeline Architecture
 
-![Pipeline Architecture](documentation/screenshots/pipeline_architecture.drawio.png)
+![Pipeline Architecture](./documentation/screenshots/pipeline_architecture.drawio.png)
 
 ## High-Level Pipeline
 
@@ -149,7 +149,7 @@ End-to-End-Data-Engineering-Analytics
 
 ## Star Schema (Analytics Layer)
 
-![Star Schema](documentation/screenshots/star_schema_ERD.png)
+![Star Schema](./documentation/screenshots/star_schema_ERD.png)
 
 The analytics layer is implemented using a **star schema** optimized for reporting.
 
@@ -308,7 +308,7 @@ This dataset is designed for direct use in Tableau dashboards.
 
 # 📊 Tableau Dashboard
 
-![Dashboard Overview](documentation/screenshots/dashboard_overview.png)
+![Dashboard](./documentation/screenshots/dashboard_overview.png)
 
 The exported dataset is used to build an interactive Tableau dashboard.
 
@@ -354,7 +354,7 @@ The pipeline is fully automated, idempotent, and safe to re-run.
 
 # ✅ Airflow DAG Run Example
 
-![Airflow DAG Success](documentation/screenshots/airflow_dag_success.png)
+![Airflow DAG](./documentation/screenshots/airflow_dag_success.png)
 
 ---
 
