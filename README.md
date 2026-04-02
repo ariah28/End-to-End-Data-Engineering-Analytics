@@ -321,7 +321,7 @@ analytics/outputs/tableau/Global_Retail_Revenue_Dashboard.twbx
 Key highlights:
 
 * Q4 generates ~39% higher daily net revenue than Non-Q4
-* - $2,120 increase per day (~$190K more per quarter)
+* $2,120 increase per day (~$190K more per quarter)
 * Distribution analysis confirms uplift is consistent (not driven by outliers)
 * Revenue is heavily concentrated in the United Kingdom
 
